@@ -1,27 +1,17 @@
 # smartisan
 
-> A Vue.js project
+> 学习Vue做的第一个网站项目, 使用Vue + Vue-router + Less + Vue-cli  
+> 暂时完成的功能很少, 整个仿照锤子的官网网站来写的, git上有不少仿照的, 但是基本上没有看过他们的代码,
+等后续功能写的差不多了, 还是要学习下他们的目录结构划分的.  
+> 开发过程中遇到许多小问题, 对于一些Vue的生命周期和路由加载刷新有时会很困惑  
 
-## Build Setup
+## 功能模块
+* [x] 首页
+* [x] 商品详情页
+* [x] 分类页面
+* [] 登录 注册
+* [] 购物车
+* [] 订单
+* [] 地址
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
